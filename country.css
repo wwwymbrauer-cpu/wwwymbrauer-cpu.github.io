@@ -1,0 +1,28 @@
+body{font-family: 'beer cape__g';
+color-scheme: var(black,rgb(192, 2, 2), rgba(255, 217, 0, 0.619));
+ background-color: var(black,rgb(192, 2, 2), rgba(255, 217, 0, 0.619));}
+
+h1{font-family: 'Honk'; 
+  text-align: center;
+  color: var(black,rgb(192, 2, 2), rgba(255, 217, 0, 0.619));
+  font-optical-sizing: auto;
+}
+
+.Homes-Germany {
+    image-rendering: 20px;
+    text-size-adjust: 20px;
+    text-align: left;}
+
+    .German-places {
+      text-align: center;
+      text-size-adjust: 20px;
+    }
+
+
+    
+    footer{
+          float: right;
+          height: auto;
+          width:auto;
+          display: block;
+        }
