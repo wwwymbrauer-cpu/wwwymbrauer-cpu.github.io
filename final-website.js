@@ -1,6 +1,6 @@
-< name="background-for-final-website" id="background-for-final-website">
-    <area target="" alt="Australia" title="Australia" href="Australia.html" coords="1265,464,1447,600" shape="rect"></area>
-    <area target="" alt="New-Zealand" title="New-Zealand" href="New-Zealand.html" coords="1491,572,1423,646,1527,603" shape="poly"></area>
+<map name="background-for-final-website" id="background-for-final-website">
+    <area target="_self" alt="Australia" title="Australia" href="Australia.html" coords="1265,464,1447,600" shape="rect"></area>
+    <area target="_self" alt="New-Zealand" title="New-Zealand" href="New-Zealand.html" coords="1491,572,1423,646,1527,603" shape="poly"></area>
     <area target="" alt="Fiji" title="Fiji" href="Fiji.html" coords="1550,515,1552,484,1571,489" shape="poly"></area>
     <area target="" alt="Tonga" title="Tonga" href="Tonga.html" coords="1558,514,1569,519,1579,488" shape="poly"></area>
     <area target="" alt="Samoa" title="Samoa" href="Samoa.html" coords="1568,471,12" shape="circle"></area>
@@ -42,4 +42,5 @@
     <area target="" alt="Syria" title="Syria" href="Syria.html" coords="943,230,961,249,1103,399" shape="rect"></area>
     <area target="" alt="Jordan" title="Jordan" href="Jordan.html" coords="944,247,938,270,948,270,950,260,961,247" shape="poly"></area>
     <area target="" alt="Israel" title="Israel" href="Israel.html" coords="932,254,939,250,942,263,938,267" shape="poly"></area>
-    <area target="" alt="Kuwait" title="Kuwait" href="Kuwait.html" coords="1002,262,1003,277,985,267" shape="poly"></area></map>
+    <area target="" alt="Kuwait" title="Kuwait" href="Kuwait.html" coords="1002,262,1003,277,985,267" shape="poly"></area>
+    <area target="_self" alt="Germany" title="Germany" href="Germany.html" coords="821,147,833,143,849,148,850,161,839,164,846,171,840,178,822,178,826,171,816,167" shape="poly"></map>
